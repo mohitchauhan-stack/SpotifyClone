@@ -33,12 +33,13 @@ This was my **first project** after learning the basics of frontend development.
 
 ## 📂 Folder Structure
 
-SPOTIFY/
-│── assets/ # images, icons, logos
-│── code/
-│ ├── index.html # main HTML file
-│ ├── style.css # stylesheet
-│── README.md # this file
+SpotifyClone/
+├── index.html       <-- moved from Spotify/code/
+├── style.css        <-- moved from Spotify/code/
+├── assets/          <-- moved from Spotify/assets/
+│   ├── images/
+│   └── logos/
+└── README.md
 
 
 ---
