@@ -9,7 +9,6 @@ This was my **first project** after learning the basics of frontend development.
 
 ### Homepage
 ![App Screenshot](assets/spotify-clone.png)
-*(Add your own screenshot inside the assets folder and update the path)*
 
 ---
 
@@ -46,8 +45,8 @@ SpotifyClone/
 
 ## ⚡ Live Demo
 
-👉 [View on GitHub Pages]()
-
+👉 [View on GitHub Pages](https://mohitchauhan-stack.github.io/SpotifyClone/)
+<!-- added live link -->
 ---
 
 ## 🤝 Contributing
